@@ -1,6 +1,6 @@
 <template>
   <div>
-    推荐
+    热销推荐
   </div>
 </template>
 
