@@ -9,6 +9,7 @@ import './assets/styles/border.css' //  导入一像素边框
 import fastClick from 'fastClick' // 解决三百毫秒延迟
 import './assets/styles/iconfont.css' // 引入icon图标
 import VueAwesomeSwiper from 'vue-awesome-swiper'
+import 'swiper/dist/css/swiper.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
